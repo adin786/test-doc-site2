@@ -2,6 +2,6 @@ site_name: testdocsite
 theme:
   name: material
 nav:
-  'Home': index.md
-  'Page 1': page1.md
-  'Page 2': page2.md
+  - 'Home': index.md
+  - 'Page 1': page1.md
+  - 'Page 2': page2.md
